@@ -4,22 +4,22 @@ This project is a image based capturing system using deep learning and computer 
 It's a deep neural network from scratch.The language used is Python and Keras libraries are utilized for neural network.For face extraction MTCNN is used.
 For complete code visit the code page of this repository
 ## Requirements
-This project requires some modules to import which are
-1.import numpy as np 
-2.import pandas as pd
-3.import os
-4.import cv2
-5.from mtcnn.mtcnn import MTCNN
-6.from keras.utils import to_categorical
-7.from sklearn.preprocessing import LabelEncoder
-8.from keras.models import Model
-9.from keras.layers import *
-10.from keras.regularizers import *
-11.from keras.optimizers import RMSprop
-12.import tensorflow as tf
-13.from tensorflow import keras
-14.from tensorflow.keras import layers
-15.from tensorflow.keras.models import Sequential
+This project requires some modules to import which are  
+1.import numpy as np   
+2.import pandas as pd  
+3.import os  
+4.import cv2  
+5.from mtcnn.mtcnn import MTCNN  
+6.from keras.utils import to_categorical  
+7.from sklearn.preprocessing import LabelEncoder  
+8.from keras.models import Model  
+9.from keras.layers import *  
+10.from keras.regularizers import *  
+11.from keras.optimizers import RMSprop  
+12.import tensorflow as tf  
+13.from tensorflow import keras  
+14.from tensorflow.keras import layers  
+15.from tensorflow.keras.models import Sequential  
 ## Installations
  pip needs to be install which is
 pip install mtcnn
