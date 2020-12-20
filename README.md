@@ -1,7 +1,7 @@
 # Face-recogniser-using-Deep-Learning
 ## Introduction
 This project is a image based capturing system using deep learning and computer vision.This system recognize a person image and give the result whether it is a match or no match
-It's a deep neural network from scratch.The language used is Python and Keras libraries are utilized for neural network.For face extraction MTCNN is used.
+It's a deep neural network from scratch.The language used is Python and Tensorflow and Keras libraries are utilized for neural network.For face extraction MTCNN is used.
 For complete code visit the code page of this repository
 ## Requirements
 This project requires some modules to import which are  
